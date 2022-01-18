@@ -2,7 +2,7 @@
 
 The goal of this project is to familiarize yourself with developing AARCH64 assembly language applications using Visual Studio Code, SFTP, Debian Buster running in a QEMU virtual machine.
 
-In [DONT_PANIC](../../DONT_PANIC/README.md), you saw a deconstruction of the following program:
+In my [book](https://github.com/CCCSBuffet/pk_do_not_be_afraid), you saw a deconstruction of the following program:
 
 ```c++
 #include <iostream>
