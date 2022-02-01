@@ -42,7 +42,7 @@ I have built a working system for us to use directly.
 
 ### Getting the distro
 
-Go to [here](https://www.mediafire.com/file/3n44u32drprfijf/aarch64.zip).
+Go to [here](https://www.mediafire.com/file/tsf1in43gogjgvl/aarch64.zip/file).
 
 Download aarch64.zip.
 
@@ -217,7 +217,7 @@ ARM='qemu-system-aarch64 -M virt -m 2048 -cpu cortex-a53   -kernel vmlinuz-4.9.0
 
 ### Get the distro
 
-Go to [here](https://www.mediafire.com/file/3n44u32drprfijf/aarch64.zip)
+Go to [here](https://www.mediafire.com/file/tsf1in43gogjgvl/aarch64.zip/file)
 
 1. Download aarch64.zip.
 2. Choose to `Open with`.
