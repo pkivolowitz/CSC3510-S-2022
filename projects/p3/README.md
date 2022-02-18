@@ -1,4 +1,4 @@
-# Project 2 - Sorted singly linked list
+# Sorted singly linked list
 
 You are going to write a program that implements a sorted singly linked list that supports insertion and deletion. The two most important aspects of this project are:
 
